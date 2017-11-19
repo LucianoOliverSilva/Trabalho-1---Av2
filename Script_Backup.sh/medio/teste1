@@ -1,0 +1,106 @@
+
+GN
+G
+N
+GN
+G
+N
+G
+N
+GN
+G
+N
+G
+N
+G
+N
+G
+NG
+N
+G
+NG
+N
+G
+NG
+N
+G
+
+
+
+
+GN
+G
+N
+GN
+G
+N
+G
+N
+GN
+G
+N
+G
+N
+G
+N
+G
+NG
+N
+G
+NG
+N
+G
+NG
+N
+G
+
+
+
+
+
+GN
+G
+N
+GN
+G
+N
+G
+N
+GN
+G
+N
+G
+N
+G
+N
+G
+NG
+N
+G
+NG
+N
+G
+NG
+N
+G
+
+
+
+Faça um script (backup.sh) para mover um arquivo passado como parâmetro para a pasta correta de acordo com o número de linhas.
+ex.: bash backup.sh meuarquivo.txt
+se numero de linhas < 100, colocar na pasta pequeno 
+senao se numero de linhas < 500, colocar na pasta médio
+senao , colocar na pasta grande
+
+Faça um script (backup.sh) para mover um arquivo passado como parâmetro para a pasta correta de acordo com o número de linhas.
+ex.: bash backup.sh meuarquivo.txt
+se numero de linhas < 100, colocar na pasta pequeno 
+senao se numero de linhas < 500, colocar na pasta médio
+senao , colocar na pasta grande
+
+
+Faça um script (backup.sh) para mover um arquivo passado como parâmetro para a pasta correta de acordo com o número de linhas.
+ex.: bash backup.sh meuarquivo.txt
+se numero de linhas < 100, colocar na pasta pequeno 
+senao se numero de linhas < 500, colocar na pasta médio
+senao , colocar na pasta grande
